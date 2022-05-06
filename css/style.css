@@ -2108,7 +2108,7 @@ blockquote p {
 .hid-det-items  .thumb-info {
 	opacity:0;
 	visibility:hidden;
-	botoom:-190px;
+	bottom:-190px;
 }
 .hid-det-items .gallery-item:hover .thumb-info{
 	opacity:1;
