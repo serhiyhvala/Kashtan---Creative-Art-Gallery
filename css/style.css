@@ -1723,13 +1723,13 @@ blockquote p {
 }
 .sidebar-social li a {
 	float:left;
-	width:36px;
-	height:36px;
-	line-height:36px;
+	width:41px;
+	height:41px;
+	line-height:41px;
 	border-radius:100%;
 	background:#292929;
 	color:#fff;
-	font-size:11px;
+	font-size:16px;
 }
 /* ------portfolio------------------------------------------------------------ */ 
 .ff_panel-conainer {
